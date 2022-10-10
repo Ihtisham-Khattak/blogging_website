@@ -1,10 +1,5 @@
 import React from "react";
-import M1 from "../assets/M1.jpg";
-import M2 from "../assets/M2.jpeg";
-import M3 from "../assets/M3.jpg";
-import M4 from "../assets/M4.jpeg";
-import M5 from "../assets/M5.jpeg";
-import M6 from "../assets/M6.jpeg";
+
 
 const movieImages = [
   {

@@ -10,7 +10,7 @@ const Body = () => {
         </h1>
       </div>
       <div>
-        <img src={Blog1} alt="dum"></img>
+        <img src={Blog1} alt="dummy"></img>
       </div>
       {/* First Paragraph */}
       <div className="lg:text-2xl text-xl">
