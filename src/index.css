@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer{
+
+  h1 {
+    @apply text-[#FFE6F7] cursor-pointer text-2xl font-serif
+  }
+
+  li{
+      @apply px-4 text-xl text-[#FFE6F7] cursor-pointer
+  }
+}
